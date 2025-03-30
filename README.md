@@ -1,3 +1,10 @@
+
+
+<figuri>
+<img src="" />
+<figcaption>Foto Projeto para Tela PC e Mobile</figcaption>
+<figuri/>
+
 Recentemente, tive a oportunidade de desenvolver uma página de login utilizando HTML, CSS e JavaScript. 
 Comecei criando a estrutura básica da página com HTML, onde defini os campos para o nome de usuário e a senha, além de um botão para enviar as informações.
 
